@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+ <title>VICTOR-H.W</title>
+</head>
+
+<body>
+<h1>HELLO WORD! - VICTOR B.D.S</h1>
+
+<p>Sou Victor Santos, estudante de tecnologia.</p>
+<p>Tenho 32 anos, atualmente atuo como Técnico de Segurança do trabalho. Na maior empresa especializada em produtos para esportes do Brasil.</p>
+<p>A multi nacional <strong>Decatlhon</strong>.</p>
+<p>
+
+<p>Sou iniciante na programação e estou seguindo uma <em>trilha de estudo</em>:</p>
+
+<h4>Road Map</h4>
+
+<p>1° Web (Html, CSS e Java Script);
+<br>
+2° Linguagem específica (Python);
+<br>
+3° Banco de Dados (My SQL);
+<br>
+</p>
+<p>Me siga nas redes sociais para acompanhar o desenvolvimento e as próximas etapas. <a href="https://www.linkedin.com/in/victor-barbosa-dos-santos-92114b128">LinkedIn</a>.
+</p>
+<p>Este site foi confeccionado com o app <a href="https://getmimo.com"><button>MIMO</button></a></p>
+<p>Explore o mundo da Internet: <a href="https://www.google.com"</a><br>
+<img src="https://mimo.app/i/earth.png">
+<br>
+<br>
+<br>
+</body>
+</html>
